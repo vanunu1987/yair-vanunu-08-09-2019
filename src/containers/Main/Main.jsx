@@ -20,7 +20,7 @@ class Main extends Component {
         let {favoriteCities} = this.props
         let { curLocation } = this.props
         let keyParm = this.props.match.params.key
-        keyParm = (keyParm==='weather-prediction')? null: keyParm
+        keyParm = (keyParm==='yair-vanunu-08-09-2019')? null: keyParm
         console.log(keyParm);
         if (!favoriteCities) await this.props.onFavoritesDefultLoad()
         let cityObj = keyParm && favoriteCities && favoriteCities[keyParm]

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/weather-prediction/static/css/main.47324cbd.chunk.css",
-    "main.js": "/weather-prediction/static/js/main.37a7d6c6.chunk.js",
-    "main.js.map": "/weather-prediction/static/js/main.37a7d6c6.chunk.js.map",
-    "runtime~main.js": "/weather-prediction/static/js/runtime~main.44116478.js",
-    "runtime~main.js.map": "/weather-prediction/static/js/runtime~main.44116478.js.map",
-    "static/js/2.96e7ac59.chunk.js": "/weather-prediction/static/js/2.96e7ac59.chunk.js",
-    "static/js/2.96e7ac59.chunk.js.map": "/weather-prediction/static/js/2.96e7ac59.chunk.js.map",
-    "index.html": "/weather-prediction/index.html",
-    "precache-manifest.9e3108a2e0947f8b9509328de1cc8427.js": "/weather-prediction/precache-manifest.9e3108a2e0947f8b9509328de1cc8427.js",
-    "service-worker.js": "/weather-prediction/service-worker.js",
-    "static/css/main.47324cbd.chunk.css.map": "/weather-prediction/static/css/main.47324cbd.chunk.css.map",
-    "static/media/App.css": "/weather-prediction/static/media/dayback.f9932439.jpg",
-    "static/media/App.module.scss": "/weather-prediction/static/media/nightback.9cf6e1c1.jpg"
+    "main.css": "/yair-vanunu-08-09-2019/static/css/main.0cc31f37.chunk.css",
+    "main.js": "/yair-vanunu-08-09-2019/static/js/main.e3fd0536.chunk.js",
+    "main.js.map": "/yair-vanunu-08-09-2019/static/js/main.e3fd0536.chunk.js.map",
+    "runtime~main.js": "/yair-vanunu-08-09-2019/static/js/runtime~main.65315d0e.js",
+    "runtime~main.js.map": "/yair-vanunu-08-09-2019/static/js/runtime~main.65315d0e.js.map",
+    "static/js/2.96e7ac59.chunk.js": "/yair-vanunu-08-09-2019/static/js/2.96e7ac59.chunk.js",
+    "static/js/2.96e7ac59.chunk.js.map": "/yair-vanunu-08-09-2019/static/js/2.96e7ac59.chunk.js.map",
+    "index.html": "/yair-vanunu-08-09-2019/index.html",
+    "precache-manifest.84aa71b93b69ed94fc148163a8acc912.js": "/yair-vanunu-08-09-2019/precache-manifest.84aa71b93b69ed94fc148163a8acc912.js",
+    "service-worker.js": "/yair-vanunu-08-09-2019/service-worker.js",
+    "static/css/main.0cc31f37.chunk.css.map": "/yair-vanunu-08-09-2019/static/css/main.0cc31f37.chunk.css.map",
+    "static/media/App.css": "/yair-vanunu-08-09-2019/static/media/dayback.f9932439.jpg",
+    "static/media/App.module.scss": "/yair-vanunu-08-09-2019/static/media/nightback.9cf6e1c1.jpg"
   }
 }

@@ -160,6 +160,11 @@
             font-size: 1.5rem;
             
         }
+        .buttom-content{
+            &::before{
+                display: none
+            } 
+        }
     }
 
 }
@@ -184,6 +189,11 @@
             h3{
                 font-size: .9rem;
             }
+        }
+        .buttom-content{
+            &::before{
+                display: none
+            } 
         }
     }
 

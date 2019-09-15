@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yair-vanunu-08-09-2019/static/css/main.0cc31f37.chunk.css",
+    "main.css": "/yair-vanunu-08-09-2019/static/css/main.5e448c1c.chunk.css",
     "main.js": "/yair-vanunu-08-09-2019/static/js/main.fb269be8.chunk.js",
     "main.js.map": "/yair-vanunu-08-09-2019/static/js/main.fb269be8.chunk.js.map",
     "runtime~main.js": "/yair-vanunu-08-09-2019/static/js/runtime~main.65315d0e.js",
@@ -8,9 +8,9 @@
     "static/js/2.96e7ac59.chunk.js": "/yair-vanunu-08-09-2019/static/js/2.96e7ac59.chunk.js",
     "static/js/2.96e7ac59.chunk.js.map": "/yair-vanunu-08-09-2019/static/js/2.96e7ac59.chunk.js.map",
     "index.html": "/yair-vanunu-08-09-2019/index.html",
-    "precache-manifest.52f0984e2e17bc242437739ffc94d07f.js": "/yair-vanunu-08-09-2019/precache-manifest.52f0984e2e17bc242437739ffc94d07f.js",
+    "precache-manifest.d2ce24dfa2c5d81055b4d916a4526c16.js": "/yair-vanunu-08-09-2019/precache-manifest.d2ce24dfa2c5d81055b4d916a4526c16.js",
     "service-worker.js": "/yair-vanunu-08-09-2019/service-worker.js",
-    "static/css/main.0cc31f37.chunk.css.map": "/yair-vanunu-08-09-2019/static/css/main.0cc31f37.chunk.css.map",
+    "static/css/main.5e448c1c.chunk.css.map": "/yair-vanunu-08-09-2019/static/css/main.5e448c1c.chunk.css.map",
     "static/media/App.css": "/yair-vanunu-08-09-2019/static/media/dayback.f9932439.jpg",
     "static/media/App.module.scss": "/yair-vanunu-08-09-2019/static/media/nightback.9cf6e1c1.jpg"
   }

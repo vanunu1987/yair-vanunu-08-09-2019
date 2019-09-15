@@ -6,7 +6,7 @@ const searchBar = (props) =>{
     let dropdown = props.isDropdown && props.currCityList && props.currCityList
     .map(cityObj=><li key={cityObj.Key}
     onClick={()=>props.listClicked(cityObj)}>
-    {cityObj.LocalizedName}, {cityObj.Country.LocalizedName}
+    {cityObj.LocalizedName && cityObj.LocalizedName}, {cityObj.Country && cityObj.Country.LocalizedName}
     </li>)
     return(
         <div className={classes['search-container']}>

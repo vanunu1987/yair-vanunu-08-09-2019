@@ -20,8 +20,8 @@ const currentForecasting = (props) =>{
                 <div className={classes['buttom-content']}>
                     <p className={classes['weather']}>{forecastRoot && forecastRoot.WeatherText}</p>
                     <div className={classes['location']}>
-                        <h2>{locRoot && locRoot.LocalizedName}</h2> ,
-                        <h3>{locRoot && locRoot.Country.LocalizedName}</h3>
+                        <h2>{locRoot && locRoot.LocalizedName && locRoot.LocalizedName}</h2> ,
+                        <h3>{locRoot && locRoot.Country && locRoot.Country.LocalizedName}</h3>
                     </div>
                     <h3 className={classes['date']}>
                     {forecastRoot && moment(forecastRoot.LocalObservationDateTime).format('MMM Do')}

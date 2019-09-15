@@ -21,7 +21,6 @@ class Main extends Component {
         let { curLocation } = this.props
         let keyParm = this.props.match.params.key
         keyParm = (keyParm==='yair-vanunu-08-09-2019')? null: keyParm
-        console.log(keyParm);
         if (!favoriteCities) await this.props.onFavoritesDefultLoad()
         let cityObj = keyParm && favoriteCities && favoriteCities[keyParm]
         let parmObj = cityObj && {Key:cityObj.id, name:cityObj.name}

@@ -5,7 +5,7 @@ import { connect } from 'react-redux';
 import classes from './Toast.module.scss'
 const toast = (props) =>{
     
-    let errMsg = props.err.toString().substring(13,props.length);
+    let errMsg = props.err.toString().substring(12,props.length);
 
     setTimeout(()=>{
         props.onCloseToast(false)

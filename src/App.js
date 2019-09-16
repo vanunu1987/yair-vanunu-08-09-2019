@@ -20,7 +20,7 @@ const App = (props)=> {
   return (
     <div className={imgClass}>
       <div className={wraperClass}>
-      <BrowserRouter>
+      <BrowserRouter  basename="/yair-vanunu-08-09-2019/">
       <Header/>
       {errorToast}
         <Switch>

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/yair-vanunu-08-09-2019/static/css/main.5e448c1c.chunk.css",
-    "main.js": "/yair-vanunu-08-09-2019/static/js/main.96386f7f.chunk.js",
-    "main.js.map": "/yair-vanunu-08-09-2019/static/js/main.96386f7f.chunk.js.map",
-    "runtime~main.js": "/yair-vanunu-08-09-2019/static/js/runtime~main.65315d0e.js",
-    "runtime~main.js.map": "/yair-vanunu-08-09-2019/static/js/runtime~main.65315d0e.js.map",
-    "static/js/2.96e7ac59.chunk.js": "/yair-vanunu-08-09-2019/static/js/2.96e7ac59.chunk.js",
-    "static/js/2.96e7ac59.chunk.js.map": "/yair-vanunu-08-09-2019/static/js/2.96e7ac59.chunk.js.map",
-    "index.html": "/yair-vanunu-08-09-2019/index.html",
-    "precache-manifest.baa80c5f3c5601b4853a335c5bfe1c26.js": "/yair-vanunu-08-09-2019/precache-manifest.baa80c5f3c5601b4853a335c5bfe1c26.js",
-    "service-worker.js": "/yair-vanunu-08-09-2019/service-worker.js",
-    "static/css/main.5e448c1c.chunk.css.map": "/yair-vanunu-08-09-2019/static/css/main.5e448c1c.chunk.css.map",
-    "static/media/App.css": "/yair-vanunu-08-09-2019/static/media/dayback.f9932439.jpg",
-    "static/media/App.module.scss": "/yair-vanunu-08-09-2019/static/media/nightback.9cf6e1c1.jpg"
+    "main.css": "/yair-vanunu-08-09-2019//static/css/main.6cefbdd0.chunk.css",
+    "main.js": "/yair-vanunu-08-09-2019//static/js/main.31bf894f.chunk.js",
+    "main.js.map": "/yair-vanunu-08-09-2019//static/js/main.31bf894f.chunk.js.map",
+    "runtime~main.js": "/yair-vanunu-08-09-2019//static/js/runtime~main.fd006539.js",
+    "runtime~main.js.map": "/yair-vanunu-08-09-2019//static/js/runtime~main.fd006539.js.map",
+    "static/js/2.96e7ac59.chunk.js": "/yair-vanunu-08-09-2019//static/js/2.96e7ac59.chunk.js",
+    "static/js/2.96e7ac59.chunk.js.map": "/yair-vanunu-08-09-2019//static/js/2.96e7ac59.chunk.js.map",
+    "index.html": "/yair-vanunu-08-09-2019//index.html",
+    "precache-manifest.94115c3e9c0e7937f566f4035ffbb2b6.js": "/yair-vanunu-08-09-2019//precache-manifest.94115c3e9c0e7937f566f4035ffbb2b6.js",
+    "service-worker.js": "/yair-vanunu-08-09-2019//service-worker.js",
+    "static/css/main.6cefbdd0.chunk.css.map": "/yair-vanunu-08-09-2019//static/css/main.6cefbdd0.chunk.css.map",
+    "static/media/App.css": "/yair-vanunu-08-09-2019//static/media/dayback.f9932439.jpg",
+    "static/media/App.module.scss": "/yair-vanunu-08-09-2019//static/media/nightback.9cf6e1c1.jpg"
   }
 }

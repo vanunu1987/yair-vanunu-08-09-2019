@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5f228f70673c54db04b903ee5d7e1e1",
+    "revision": "f11aab0be742f8eef5aa74f59b1fe3bf",
     "url": "/yair-vanunu-08-09-2019//index.html"
   },
   {

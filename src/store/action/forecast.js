@@ -55,7 +55,7 @@ export const setErrorHandle = (err) =>{
             try {
                 let locationArr = await forecastService.getLocKey(location.name)
                 if (locationArr.length===0)  {
-                    throw "             Unvalid Location" 
+                    throw "             Invalid Location" 
                 }               
                 dispatch(setLocKey(locationArr))
                 utilService.saveToStorage('currLoc',locationArr)

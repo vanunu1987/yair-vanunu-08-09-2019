@@ -13,7 +13,7 @@ const toast = (props) =>{
     
     return (
         <div className={classes['toast-container']}>
-            <h1>somting went worng, {errMsg}</h1>
+            <h1>something went wrong, {errMsg}</h1>
         </div>
     )
 }

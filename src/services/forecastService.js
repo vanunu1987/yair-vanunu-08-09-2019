@@ -2,7 +2,7 @@
 
 import * as axiosService from './axiosService'
 
-const API_KEY = 'P0Ti5KaCm1Y4sANgkLRGCkaerZHAdSZr'
+const API_KEY = 'pq4axyMDdPNazdbtAgVc0ge8cwfn829T'
 
 const getLocKey = async (key) => {
     let res = await axiosService.forecastAxios

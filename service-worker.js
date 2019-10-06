@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yair-vanunu-08-09-2019//precache-manifest.86933ca05ea6729a524a51d974f3e80d.js"
+  "/yair-vanunu-08-09-2019//precache-manifest.15ea92281fd5b7ac7d039fc04e2bb4cf.js"
 );
 
 self.addEventListener('message', (event) => {

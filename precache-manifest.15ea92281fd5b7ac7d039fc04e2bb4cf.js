@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe71ade931af5c84c5ad7002ce904b30",
+    "revision": "195fa67a389270211eda414d3a8a8276",
     "url": "/yair-vanunu-08-09-2019//index.html"
   },
   {
-    "revision": "31a5ca6fe2dd2a26a7d2",
+    "revision": "dff618876b74fa15c467",
     "url": "/yair-vanunu-08-09-2019//static/css/main.30940eb7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yair-vanunu-08-09-2019//static/js/2.96e7ac59.chunk.js"
   },
   {
-    "revision": "31a5ca6fe2dd2a26a7d2",
-    "url": "/yair-vanunu-08-09-2019//static/js/main.d090c9f3.chunk.js"
+    "revision": "dff618876b74fa15c467",
+    "url": "/yair-vanunu-08-09-2019//static/js/main.83c46e96.chunk.js"
   },
   {
     "revision": "2790dde0db5f8cf099ad",
